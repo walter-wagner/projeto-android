@@ -14,7 +14,7 @@
         text-transform: uppercase;
         list-style-type: none;
         position: absolute;
-        top: 135px;
+        top: 160px;
         left: 0px;
     }
     li.itens {
@@ -40,7 +40,7 @@
         box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.397);
     }
     header {
-        height: 170px;
+        height: 200px;
         margin-top: -10px; 
         background-color: #1a5c37;
     }
